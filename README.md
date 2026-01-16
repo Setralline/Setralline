@@ -27,10 +27,3 @@ I enjoy solving complex problems, automating workflows, and applying adversarial
 - Modern frontend & backend engineering  
 - System reliability and performance  
 
----
-
-### Connect
-- 🌍 Based in Finland  
-- 💼 Open to collaboration on security‑focused or automation‑heavy projects  
-- 🧠 Always learning, building, and experimenting  
-
